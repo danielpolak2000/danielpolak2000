@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some weekend projects to automate my daily life and new app ideas.<br>🌱 I’m currently learning AI and automations.<br>⚡ Fun fact: I am using Chat GPT since they released it publicly in 11/2022
+🔭 I’m currently working on some weekend projects to automate my daily life and new app ideas.<br>🌱 I’m currently learning AI and automations.<br>⚡ Fun fact: I am using Chat GPT since they released it publicly in 11/2022.
 
 
 # 💻 Tech Stack:
